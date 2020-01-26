@@ -1,4 +1,4 @@
-package com.maaven.practice;
+package com.maaven.practice
 
 import junit.framework.Test;
 import junit.framework.TestCase;
